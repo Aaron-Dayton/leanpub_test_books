@@ -1,12 +1,12 @@
 # Transcripts
 
-{transcript: "\"apple.png"}
+{transcript: "\"transcript.txt"}
 ![](video.mp4)
 
-{transcript: " apple.png"}
+{transcript: " transcript.txt"}
 ![](video.mp4)
 
-{transcript: "\\apple.png"}
+{transcript: "\\transcript.txt"}
 ![](video.mp4)
 
 {transcript: apple.png}
