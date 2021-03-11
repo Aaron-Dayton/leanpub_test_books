@@ -5,3 +5,4 @@ fileWithA~Tilde
 Legitimate Title
 Chapter with .. wow
 nonexistent chapter
+transcripts
