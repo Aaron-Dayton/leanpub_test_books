@@ -9,5 +9,5 @@
 {transcript: "\\apple.png"}
 ![](video.mp4)
 
-{transcript: "apple.png"}
+{transcript: apple.png}
 ![](video.mp4)
