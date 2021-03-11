@@ -1,6 +1,6 @@
 # Transcripts
 
-{transcript: "\"transcript.txt"}
+{transcript: '"transcript.txt'}
 ![](video.mp4)
 
 {transcript: " transcript.txt"}
